@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mini-interface/static/css/main.cd0e41f1.chunk.css",
-    "main.js": "/mini-interface/static/js/main.7cd82031.chunk.js",
-    "main.js.map": "/mini-interface/static/js/main.7cd82031.chunk.js.map",
-    "runtime-main.js": "/mini-interface/static/js/runtime-main.9b0200d3.js",
-    "runtime-main.js.map": "/mini-interface/static/js/runtime-main.9b0200d3.js.map",
+    "main.css": "/mini-interface/static/css/main.2fdebdf3.chunk.css",
+    "main.js": "/mini-interface/static/js/main.e94b16a9.chunk.js",
+    "main.js.map": "/mini-interface/static/js/main.e94b16a9.chunk.js.map",
+    "runtime-main.js": "/mini-interface/static/js/runtime-main.30ad0131.js",
+    "runtime-main.js.map": "/mini-interface/static/js/runtime-main.30ad0131.js.map",
     "static/css/2.3a00fd48.chunk.css": "/mini-interface/static/css/2.3a00fd48.chunk.css",
-    "static/js/2.81ad61a9.chunk.js": "/mini-interface/static/js/2.81ad61a9.chunk.js",
-    "static/js/2.81ad61a9.chunk.js.map": "/mini-interface/static/js/2.81ad61a9.chunk.js.map",
+    "static/js/2.8b355e77.chunk.js": "/mini-interface/static/js/2.8b355e77.chunk.js",
+    "static/js/2.8b355e77.chunk.js.map": "/mini-interface/static/js/2.8b355e77.chunk.js.map",
     "index.html": "/mini-interface/index.html",
-    "precache-manifest.0739bbc5b90e5f7d8f2875a0af083f1a.js": "/mini-interface/precache-manifest.0739bbc5b90e5f7d8f2875a0af083f1a.js",
+    "precache-manifest.1d5cb0f895014f4557bc25f36700fbd7.js": "/mini-interface/precache-manifest.1d5cb0f895014f4557bc25f36700fbd7.js",
     "service-worker.js": "/mini-interface/service-worker.js",
     "static/css/2.3a00fd48.chunk.css.map": "/mini-interface/static/css/2.3a00fd48.chunk.css.map",
-    "static/css/main.cd0e41f1.chunk.css.map": "/mini-interface/static/css/main.cd0e41f1.chunk.css.map",
-    "static/js/2.81ad61a9.chunk.js.LICENSE": "/mini-interface/static/js/2.81ad61a9.chunk.js.LICENSE",
+    "static/css/main.2fdebdf3.chunk.css.map": "/mini-interface/static/css/main.2fdebdf3.chunk.css.map",
+    "static/js/2.8b355e77.chunk.js.LICENSE": "/mini-interface/static/js/2.8b355e77.chunk.js.LICENSE",
     "static/media/aboutme-img.png": "/mini-interface/static/media/aboutme-img.1c07f7d9.png",
     "static/media/mdb.css": "/mini-interface/static/media/arrow_right.8ef6a08c.svg",
     "static/media/contactpage-img.png": "/mini-interface/static/media/contactpage-img.e23593a0.png",
@@ -21,10 +21,10 @@
     "static/media/landingpage-img.png": "/mini-interface/static/media/landingpage-img.40dacc7d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b0200d3.js",
+    "static/js/runtime-main.30ad0131.js",
     "static/css/2.3a00fd48.chunk.css",
-    "static/js/2.81ad61a9.chunk.js",
-    "static/css/main.cd0e41f1.chunk.css",
-    "static/js/main.7cd82031.chunk.js"
+    "static/js/2.8b355e77.chunk.js",
+    "static/css/main.2fdebdf3.chunk.css",
+    "static/js/main.e94b16a9.chunk.js"
   ]
 }
